@@ -1,7 +1,7 @@
 ## olá eu sou Brenno Alves 😎
 
 - 🖼️ Hoje trabalho como Arte-Finalista
-- 📘 Estou atualmente cursando o primeiro semestre de Analise e desenvolvimento de sistemas
+- 📘 Estou atualmente cursando o Segundo semestre de Analise e desenvolvimento de sistemas
 
 <div align="center">
   <a href="https://github.com/Brennoao">
