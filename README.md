@@ -11,6 +11,8 @@
  
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Brennoao&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Brennoao&theme=midnight-purple&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brennoao&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <a href="https://github.com/Brennoao">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Brennoao&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brennoao&layout=compact&langs_count=7&theme=nightowl"/>
+</div>
