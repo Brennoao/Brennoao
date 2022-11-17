@@ -14,8 +14,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=Brennoao&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Brennoao&theme=midnight-purple&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Brennoao&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=Brennoao&icon=7&color=12)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
